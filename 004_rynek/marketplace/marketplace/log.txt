@@ -1,0 +1,9 @@
+Round 1:normal
+Round 2:normal
+Round 3:normal
+Round 4:bankrupt:bank
+Round 5:bankrupt:bank bankrupt:shop
+Round 6:bankrupt:bank bankrupt:shop
+Round 7:bankrupt:bank bankrupt:shop
+Round 8:bankrupt:bank bankrupt:shop
+Round 9:bankrupt:bank bankrupt:shop
